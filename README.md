@@ -1,3 +1,5 @@
+# This app will display a new advice from an external api each time you click on the get advice button.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
